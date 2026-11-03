@@ -36,7 +36,7 @@ The engine runs a FastAPI webhook listener that accepts JSON payloads directly f
 
 &#x20;  ```bash
 
-&#x20;  git clone \[https://github.com/karthikdorapally/cloud-forensics-saas.git](https://github.com/karthikdorapally/cloud-forensics-saas.git)
+&#x20;  git clone \ https://github.com/karthikdorapally/cloud-forensics-saas.git https://github.com/karthikdorapally/cloud-forensics-saas.git
 
 &#x20;  cd cloud-forensics-saas
 
